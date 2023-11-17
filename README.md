@@ -1,5 +1,6 @@
 # url-shortening
 This service will provide short aliases redirecting to long URLs.
+URL shortening is used for optimizing links across devices, tracking individual links to analyze audience and campaign performance, and hiding affiliated original URLs.
 
 ## Functional Requirements:
 
